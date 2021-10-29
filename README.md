@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Arka Biswas
 #### Design and development
-![Design and development](https://media-exp1.licdn.com/dms/image/C5616AQGRuR__0EAMNw/profile-displaybackgroundimage-shrink_350_1400/0/1622785523522?e=1635379200&v=beta&t=pQHXVSHx0jzjdQQAXL-HN1mxowNI11t7SIYXy7vZTZc)
 
 I am a 2nd year student of Electrical Engineering in JGEC.I am really interested in app dev and web dev
 
